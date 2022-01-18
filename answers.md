@@ -71,6 +71,13 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 # Answer 10  
+No, the local copy was not updated
 
+# Answer 11  
+There is an error because the online version has edits that are not present locally
 
-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
+# Answer 12  
+Yes, the local copy was updated
+
+# Answer 13  
+.  ..  .git  .gitignore  README.md  
